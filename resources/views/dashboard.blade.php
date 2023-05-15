@@ -50,7 +50,7 @@
 
                 <!-- Modal toggle -->
                 <button data-modal-target="popup-modal" data-modal-toggle="popup-modal"
-                    class="text bg-gray-800 hover:bg-gray-700 text-white py-1 px-2 rounded focus:outline-none focus:shadow-outline"
+                    class="text bg-green-800 hover:bg-green-700 text-white py-1 px-2 rounded focus:outline-none focus:shadow-outline"
                     type="button">
                     Toggle modal
                 </button>
